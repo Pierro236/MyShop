@@ -1,0 +1,27 @@
+.item{
+    margin: 10px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+	position: relative;
+}
+
+.item-cover{
+    height: 100px;
+	width: 100px;
+	border-radius: 20px;
+	object-fit: cover;
+}
+
+.item-name{
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.item-price{
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+}

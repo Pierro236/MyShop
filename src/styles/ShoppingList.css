@@ -1,0 +1,11 @@
+.shop-list{
+    list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.plant-list{
+    width: 100%;
+}
